@@ -1,0 +1,71 @@
+
+                <!--This PathGeometry will cut RectangleGeometry, cut-off right top-->
+                <PathGeometry>
+                    <PathGeometry.Figures>
+                        <PathFigure StartPoint="0,0">
+                            <LineSegment Point="0,20"/>
+                            <LineSegment Point="15,0"/>
+                        </PathFigure>
+                    </PathGeometry.Figures>
+                </PathGeometry>
+
+                <!--This PathGeometry will cut RectangleGeometry, cut-of left bottom-->
+                <PathGeometry>
+                    <PathGeometry.Figures>
+                        <PathFigure StartPoint="0,20">
+                            <LineSegment Point="0,40"/>
+                            <LineSegment Point="15,40"/>
+                        </PathFigure>
+                    </PathGeometry.Figures>
+                </PathGeometry>
+				
+				
+				
+				
+                <!--This PathGeometry will cut RectangleGeometry, cut-off right top-->
+                <PathGeometry>
+                    <PathGeometry.Figures>
+                        <PathFigure StartPoint="25,0">
+                            <LineSegment Point="40,0"/>
+                            <LineSegment Point="40,20"/>
+                        </PathFigure>
+                    </PathGeometry.Figures>
+                </PathGeometry>
+
+                <!--This PathGeometry will cut RectangleGeometry, cut-of left bottom-->
+                <PathGeometry>
+                    <PathGeometry.Figures>
+                        <PathFigure StartPoint="25,40">
+                            <LineSegment Point="40,40"/>
+                            <LineSegment Point="40,20"/>
+                        </PathFigure>
+                    </PathGeometry.Figures>
+                </PathGeometry>
+				
+				
+				
+				
+				
+				
+				
+				
+	
+                <!--This PathGeometry will cut RectangleGeometry, cut-off right top-->
+                <PathGeometry>
+                    <PathGeometry.Figures>
+                        <PathFigure StartPoint="45,0">
+                            <LineSegment Point="60,0"/>
+                            <LineSegment Point="60,20"/>
+                        </PathFigure>
+                    </PathGeometry.Figures>
+                </PathGeometry>
+
+                <!--This PathGeometry will cut RectangleGeometry, cut-of left bottom-->
+                <PathGeometry>
+                    <PathGeometry.Figures>
+                        <PathFigure StartPoint="45,40">
+                            <LineSegment Point="60,40"/>
+                            <LineSegment Point="60,20"/>
+                        </PathFigure>
+                    </PathGeometry.Figures>
+                </PathGeometry>
